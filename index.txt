@@ -1,0 +1,8 @@
+参考:
+Code With Yousaf
+Build a CRUD App with React.js and Redux Toolkit for Beginners | "React Redux CRUD App"
+https://www.youtube.com/watch?v=DOkSU3yg4vQ&list=PLnZgHKyxHOEA_YXULN0tmnnuVo0Jy-SnU&index=118
+
+本地：/Users/junlin/Desktop/workspace/react/ CRUD App-redux toolkit
+远程仓库:https://github.com/kaka5277/CRUD_APP-Redux_toolkit.git
+部署后:
